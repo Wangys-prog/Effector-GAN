@@ -9,7 +9,7 @@ Effector-GAN is an open-source Python-based toolkit, which operates depending on
 Before running Effector-GAN, users should make sure all the following packages are installed in their Python environment. 
    
 
-# **The codes can be downloaded from our gitlab (http://47.109.24.44:4747/wangys_biolab/effector-gan)**>
+# **The codes can be downloaded from our gitlab (http://47.109.24.44:4747/wangys_biolab/effector-gan)**
   
 
 ## **Prerequisites**
