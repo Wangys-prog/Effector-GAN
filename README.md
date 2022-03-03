@@ -42,21 +42,21 @@ Before running Effector-GAN, users should make sure all the following packages a
    
     **# CUDA 10.0**
     
-    conda install pytorch==1.2.0 torchvision==0.4.0 cudatoolkit=10.0 -c pytorch
+    conda install pytorch==1.3.1 torchvision==0.4.2 cudatoolkit=10.0 -c pytorch
     
     **# CPU Only**
     
-    conda install pytorch==1.2.0 torchvision==0.4.0 cpuonly -c pytorch
+    conda install pytorch==1.3.1 torchvision==0.4.2 cpuonly -c pytorch
     
   **pip install**
   
     **If you have GPU  # CUDA 10.0**
   
-    pip install torch==1.2.0 torchvision==0.4.0
+    pip install torch==1.3.1 torchvision==0.4.2
   
     **CPU Only python3.7**
     
-    pip install torch==1.2.0+cpu torchvision==0.4.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+    pip install torch==1.3.1+cpu torchvision==0.4.2+cpu -f https://download.pytorch.org/whl/torch_stable.html
   
  **other packages** 
    
